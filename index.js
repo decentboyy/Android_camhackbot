@@ -84,7 +84,7 @@ the url it will send you 2 links which you can use to track people.
 \n1. Cloudflare Link: This method will show a cloudflare under attack page to gather informations and afterwards victim will be redirected to destinationed URL.
 \n2. Webview Link: This will show a website (ex bing , dating sites etc) using iframe for gathering information.
 ( ⚠️ Many sites may not work under this method if they have x-frame header present.Ex https://google.com )
-\n\nJoin Telegram Channel: https://t.me/OnlineHacKing
+\n\nJoin Telegram Channel: https://t.me/Heck_Tech
 `);
 }
   
